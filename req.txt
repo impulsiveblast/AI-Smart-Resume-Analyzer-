@@ -1,0 +1,14 @@
+langchain-google-genai
+langchain
+langchain_community
+langchain-text-splitters
+dotenv 
+pypdf 
+sentence_transformers
+langchain_chroma
+langchain-core
+docx2txt
+pymongo
+streamlit
+pandas
+dotenv
