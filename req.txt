@@ -12,3 +12,11 @@ pymongo
 streamlit
 pandas
 dotenv
+streamlit
+pandas
+python-dotenv
+langchain
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+pypdf
